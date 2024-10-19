@@ -14,7 +14,6 @@ packages=  [
   "dominator",
   "futures-signals",
   "gloo",
-  "parity-wasm",
   "plotters",
   "stdweb",
   "wasm-bindgen",

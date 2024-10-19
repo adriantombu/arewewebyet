@@ -13,6 +13,7 @@ packages = [
   "jsonwebtoken",
   "oauth2",
   "openssl",
+  "otpauth",
   "oxide-auth",
   "yup-oauth2"
 ]

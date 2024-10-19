@@ -11,6 +11,7 @@ packages = [
   "async-imap",
   "email",
   "imap",
+  "imap-codec",
   "imap-proto",
   "lettre",
   "mail-auth",

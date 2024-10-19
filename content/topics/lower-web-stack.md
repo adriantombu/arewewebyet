@@ -17,7 +17,8 @@ http = [
 websocket = [
   "tungstenite",
   "async-tungstenite",
-  "tokio-tungstenite"
+  "tokio-tungstenite",
+  "wtx"
 ]
 
 protocols = [

@@ -10,6 +10,7 @@ intro = "Syndication has often been announced dead just to still stick around. P
 packages = [
   "atom_syndication",
   "rss",
+  "rrss2imap",
   "feed-rs"
 ]
 

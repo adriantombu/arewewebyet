@@ -13,7 +13,6 @@ packages = [
   "rmp",
   "serde",
   "serde_json",
-  "serde_yaml",
   "serde_bytes",
   "toml",
   "quick-xml"

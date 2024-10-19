@@ -9,8 +9,7 @@ intro = "While the main showcase of WebAssembly initially was the web browser, t
 
 packages = [
   "wasmer",
-  "wasmtime",
-  "watt"
+  "wasmtime"
 ]
 
 newstag = "webassembly-runtimes"

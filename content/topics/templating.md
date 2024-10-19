@@ -12,10 +12,15 @@ packages = [
   "askama",
   "tera",
   "handlebars",
+  "sailfish",
+  "horrorshow",  
   "liquid",
+  "yarte",
   "maud",
   "markup",
   "pulldown-cmark",
+  "ramhorns",
+  "ructe",
   "comrak",
   "minijinja"
 ]

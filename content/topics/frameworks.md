@@ -12,6 +12,7 @@ server = [
   "gotham",
   "rocket", 
   "tide",
+  "thruster",
   "warp",
   "axum",
   "poem",
