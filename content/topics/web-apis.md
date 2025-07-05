@@ -13,7 +13,7 @@ packages = [
  "google_maps",
  "google-drive",
  "teloxide",
- "nats",
+ "async-nats",
 ]
 
 missing = [
